@@ -3,3 +3,4 @@
 soubor pro testování
 jakasi zmena v ramci cviceni
 dalsi radka pro cviceni
+a jeste jedna radka pro cviceni
